@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  logStatusID: 
+  message: MyText
+  stackTrace: MyText
+  userid: 
+
+two:
+  logStatusID: 
+  message: MyText
+  stackTrace: MyText
+  userid: 
